@@ -1,0 +1,30 @@
+[{
+  "name": "wateruse-map",
+  "organization": "U.S. Geological Survey",
+  "description": "2015 Water Use Data",
+  "status": "Production",
+  "homepage": "",
+  "downloadURL": "https://github.com/usgs-wim/wateruse-map/archive/master.zip",
+  "openSourceProject": 1,
+  "license": "https://github.com/usgs-wim/wateruse-map/blob/master/LICENSE.md",
+  "vcs": "git",
+  "repository": "https://github.com/usgs-wim/wateruse-map.git",
+
+  "tags": [
+    "water",
+    "wim",
+    "usgs"
+  ],
+  "languages": [
+    "javascript",
+    "html"
+  ],
+
+  "contact": {
+    "name": "Lauren Privette",
+    "email": "lprivette@usgs.gov"
+  },
+  "updated": {
+    "metadataLastUpdated": "4/19/2018"
+  }
+}]
