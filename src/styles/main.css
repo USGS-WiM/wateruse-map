@@ -734,19 +734,19 @@ input[type="checkbox"], input[type="radio"] {
 
 /*Long title header*/
 .header-longtitle{
-    font-size:16px;
+    font-size:20px;
     display:inline-block;
     letter-spacing: -0.2px !important;
-    line-height: 20px !important;
+    line-height: 30px !important;
     padding-top: 9px !important;
 }
-.header-longtitle small{
+/* .header-longtitle small{
     display: block;
     height: 10px;
     line-height: 10px;
     font-size: 9pt;
     letter-spacing: -0.25px;
-}
+} */
 .navbar-brand{
     padding-left: 0 !important;
 }

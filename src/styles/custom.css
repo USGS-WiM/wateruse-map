@@ -174,3 +174,24 @@
 /* #legendDiv_huc8 table tbody tr td{
     display: none;
 } */
+
+.search-help{
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 12px;
+}
+
+.search-help b{
+    display: block;
+    margin: 0 auto;
+    font-size: 14px;
+    margin-bottom: 8px;
+    margin-top: 25px;
+}
+
+.search-help code{
+    display: inline-block;
+    margin: 2px;
+}
